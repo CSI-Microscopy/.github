@@ -102,8 +102,8 @@ For any questions or support, please reach out to us:
 
 - Email:
   - [CSI Email](mailto:core.csi@mail.huji.ac.il)
-  - [Einat Zelinger - Head of Unit](mailto:einat.zelinger@mail.huji.ac.il)
-  - [Tally Kossovsky - Electron Microscopy and MicroCT](mailto:tally.kossovsky@mail.huji.ac.il)
-  - [Daniel Waiger - Light Microscopy, Image Analysis, 3D CAD modeling, and 3D printing](mailto:danielw@savion.huji.ac.il)
+  - [Einat Zelinger - Head of Unit; SEM, cryo-SEM, EDS, confocal, EVOS](mailto:einat.zelinger@mail.huji.ac.il)
+  - [Tally Kossovsky - SEM, TEM and MicroCT](mailto:tally.kossovsky@mail.huji.ac.il)
+  - [Daniel Waiger - Image analysis, light sheet, confocal, EVOS, AFM, MicroCT support, 3D CAD modeling and 3D printing, image analysis server management and maintenance](mailto:danielw@savion.huji.ac.il)
 
 
