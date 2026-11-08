@@ -1,3 +1,5 @@
+<p align="center"><img src="csi-logo.png" alt="CSI, Center for Scientific Imaging" width="320"></p>
+
 # Faculty of Agriculture CSI Microscopy
 
 Welcome to the **Faculty of Agriculture CSI Microscopy** GitHub organization! This repository serves as a resource hub for our users, providing essential tools, guides, and tutorials related to microscopy and image analysis.
